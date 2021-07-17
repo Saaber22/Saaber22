@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Saaber22
 - 👀 I’m interested in JavaScript,SQL.
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning on RGATU from Rybinsk.
 - 💞️ I’m looking to collaborate on HPO KRISTA.
 - 📫 How to reach me ...
  
